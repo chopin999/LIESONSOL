@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "BNB Meme Index",
-  description: "Tracking the most volatile BNB meme tokens",
+  description: "BNB meme index, one token all memes",
     generator: 'v0.app'
 }
 
