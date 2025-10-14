@@ -196,7 +196,7 @@ export default function Component() {
           <div>
             <span className="text-yellow-400">Socials: </span>
             <a
-              href="https://x.com/FMIDXsol"
+              href="https://x.com/BMIDX_BNB"
               target="_blank"
               rel="noopener noreferrer"
               className="underline text-yellow-500"
